@@ -58268,7 +58268,7 @@ r=new A.cZ(A.bd(38,B.m.H()>>>16&255,B.m.H()>>>8&255,B.m.H()&255),1.5,B.a_,-1)
 q=A.bd(B.c.ah(127.5),B.fu.H()>>>16&255,B.fu.H()>>>8&255,B.fu.H()&255)
 p=A.Qq(20)
 o=t.eE
-return new A.rh(A.a9H(new A.Go(new A.yU(B.ca,B.cu,B.wm,B.cf,n,B.Bu,n,0,A.a([j,new A.qN(i,l*0.8,n),h,g,f,e,d,c,b,new A.yM(a,A.afN(B.aB,A.a([a0,A.a9H(new A.rj(new A.a60(),B.p,B.af,B.fu,0,0,0,0,A.apH(A.a([A.ul("\u0639\u0646\u0648\u0627\u0646 \u0627\u0644\u0642\u0627\u0639\u0629 Google maps",A.avo().$3$color$fontSize$fontWeight(B.cd,15,B.aO)),A.a1O(n,n,10),new A.Bw(B.Fq,20,B.Sd,n)],o),B.wl),new A.dw(p,B.x),n),n,new A.fE(q,n,new A.cB(r,r,r,r),s,n,n,B.cb),k*0.06,n,n,l*0.5)],o),B.Wf),n)],o),n),n),n,B.Cb,k,n,n,l),"\u0645\u062d\u0645\u0648\u062f \u0633\u0639\u064a\u062f \u0645\u062f\u0627\u062d",B.qs,B.Oj,B.GT,!1,n)}}
+return new A.rh(A.a9H(new A.Go(new A.yU(B.ca,B.cu,B.wm,B.cf,n,B.Bu,n,0,A.a([j,new A.qN(i,l*0.8,n),h,g,f,e,d,c,b,new A.yM(a,A.afN(B.aB,A.a([a0,A.a9H(new A.rj(new A.a60(),B.p,B.af,B.fu,0,0,0,0,A.apH(A.a([A.ul("\u0639\u0646\u0648\u0627\u0646 \u0627\u0644\u0642\u0627\u0639\u0629 Google maps",A.avo().$3$color$fontSize$fontWeight(B.cd,12,B.aO)),A.a1O(n,n,10),new A.Bw(B.Fq,20,B.Sd,n)],o),B.wl),new A.dw(p,B.x),n),n,new A.fE(q,n,new A.cB(r,r,r,r),s,n,n,B.cb),k*0.06,n,n,l*0.5)],o),B.Wf),n)],o),n),n),n,B.Cb,k,n,n,l),"\u0645\u062d\u0645\u0648\u062f \u0633\u0639\u064a\u062f \u0645\u062f\u0627\u062d",B.qs,B.Oj,B.GT,!1,n)}}
 A.a60.prototype={
 $0(){var s=0,r=A.J(t.H),q
 var $async$$0=A.K(function(a,b){if(a===1)return A.G(b,r)
